@@ -6,7 +6,7 @@
   "type": "library",
   "license": "BSD-3-Clause",
   "require": {
-    "php": ">=5.5",
+    "php": ">=5.3",
     "gajus/dindent": "2.0.2"
   },
   "require-dev": {
