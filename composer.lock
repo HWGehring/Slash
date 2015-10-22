@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "3b83bf31d2ac21ae91a9fee89d901480",
-    "content-hash": "93194124c655fcee91ea226399960568",
+    "hash": "ccdddfbb9de47125e059371d34dc9b57",
+    "content-hash": "0605d0fff45034ea6e94552aec6d2640",
     "packages": [
         {
             "name": "gajus/dindent",
@@ -1717,7 +1717,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=5.5"
+        "php": ">=5.3"
     },
     "platform-dev": []
 }
