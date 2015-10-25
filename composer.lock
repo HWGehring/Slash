@@ -4,21 +4,21 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "071a53a0531c35992035973bd19d34a2",
-    "content-hash": "14b74a8866c40c00ef7ebba7b1587969",
+    "hash": "c9dcaa428f14ea81cec030f80b64ee5b",
+    "content-hash": "13c1d8afc0233549581533267f9b912b",
     "packages": [
         {
             "name": "almasaeed2010/adminlte",
-            "version": "v2.0.0",
+            "version": "v2.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/almasaeed2010/AdminLTE.git",
-                "reference": "4a4457b5d3ad0ce265342d2e2784dc39110a16cf"
+                "reference": "1ee281b3b99e8d8cccdc72fb8437c6888149cb46"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/almasaeed2010/AdminLTE/zipball/4a4457b5d3ad0ce265342d2e2784dc39110a16cf",
-                "reference": "4a4457b5d3ad0ce265342d2e2784dc39110a16cf",
+                "url": "https://api.github.com/repos/almasaeed2010/AdminLTE/zipball/1ee281b3b99e8d8cccdc72fb8437c6888149cb46",
+                "reference": "1ee281b3b99e8d8cccdc72fb8437c6888149cb46",
                 "shasum": ""
             },
             "type": "library",
@@ -45,7 +45,7 @@
                 "theme",
                 "web"
             ],
-            "time": "2015-02-25 15:01:46"
+            "time": "2015-10-23 14:50:49"
         },
         {
             "name": "gajus/dindent",

@@ -1,18 +1,22 @@
 {
   "name": "archon/slash",
   "description": "Slash: Dynamic PHP Web Application Framework",
-  "keywords": ["slash", "framework", "dynamic"],
+  "keywords": [
+    "slash",
+    "framework",
+    "dynamic"
+  ],
   "homepage": "https://github.com/HWGehring/Slash",
-  "type": "library",
+  "type": "framework",
   "license": "BSD-3-Clause",
   "require": {
     "php": ">=5.3",
-    "almasaeed2010/adminlte": "2.0",
+    "almasaeed2010/adminlte": "2.3.2",
     "gajus/dindent": "2.0.2"
   },
   "require-dev": {
     "phpunit/phpunit": "4.7.*",
-    "phpmd/phpmd" : "@stable",
+    "phpmd/phpmd": "@stable",
     "squizlabs/php_codesniffer": "2.3.4",
     "satooshi/php-coveralls": "0.6.1"
   },
